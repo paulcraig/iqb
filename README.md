@@ -14,5 +14,5 @@ To participate in the IQB Crash Course, you will need to set up an account at ch
  
 - Lesson 1 Resources: no additional files or resources needed
 - Lesson 2 and 3 Resources: PDB_files folder containing 1ddo.pdb, 3iva.pdb, 4eyr.pdb, 5veu.pdb, 7tim.pdb, 2pkr.pdb, 3vnd.pdb, 5eu9.pdb, 6zt7.pdb
-- Lesson 4 Resources:
+- Lesson 4 Resources: @Jessica - They just use the PDB files in the PDB_files folder, but I think we should show them how to download files of interest to them.
 
